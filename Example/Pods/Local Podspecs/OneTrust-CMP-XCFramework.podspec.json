@@ -11,7 +11,7 @@
     "OneTrust, LLC.": "support@onetrust.com"
   },
   "source": {
-    "http": "https://sdk.onetrust.io/ot-cmp-sdk/OneTrust-CMP-XCFramework-202308.2.6.0.zip"
+    "http": "https://sdk.onetrust.io/ot-cmp-sdk/OneTrust-CMP-XCFramework-202308.2.6.zip"
   },
   "swift_versions": "5.1",
   "ios": {

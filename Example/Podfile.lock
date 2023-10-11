@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  OneTrust-CMP-XCFramework: 362867c6253caad52909a9f5b5b97f9cac9c644c
+  OneTrust-CMP-XCFramework: 1077cbf65234be9e058a84cc38a50349f06ec48b
 
 PODFILE CHECKSUM: e3c25fe27df02c48eceb1779c19ea6edbf0babeb
 
