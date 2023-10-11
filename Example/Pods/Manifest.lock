@@ -1,0 +1,16 @@
+PODS:
+  - OneTrust-CMP-XCFramework (202308.2.6.0)
+
+DEPENDENCIES:
+  - OneTrust-CMP-XCFramework (from `../`)
+
+EXTERNAL SOURCES:
+  OneTrust-CMP-XCFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OneTrust-CMP-XCFramework: 362867c6253caad52909a9f5b5b97f9cac9c644c
+
+PODFILE CHECKSUM: e3c25fe27df02c48eceb1779c19ea6edbf0babeb
+
+COCOAPODS: 1.12.1

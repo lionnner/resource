@@ -1,0 +1,24 @@
+{
+  "name": "OneTrust-CMP-XCFramework",
+  "version": "202308.2.6.0",
+  "summary": "OneTrust Publishers native SDK for iOS Applications.",
+  "homepage": "https://www.onetrust.com/",
+  "license": {
+    "type": "Commercial",
+    "text": "LICENSE"
+  },
+  "authors": {
+    "OneTrust, LLC.": "support@onetrust.com"
+  },
+  "source": {
+    "http": "https://sdk.onetrust.io/ot-cmp-sdk/OneTrust-CMP-XCFramework-202308.2.6.0.zip"
+  },
+  "swift_versions": "5.1",
+  "ios": {
+    "vendored_frameworks": "OTPublishersHeadlessSDK.xcframework"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_version": "5.1"
+}
